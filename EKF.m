@@ -1,5 +1,6 @@
 % Localization of mobile Robot using Extended Kalman Filter in 2D space
 % Matlab code
+% Developed by: Bhanu Chander V, IIT Madras, India
 
 clear; close all; clc
 
